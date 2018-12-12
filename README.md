@@ -1,5 +1,5 @@
 # melee_ai
-A bot that will beat you in Super Smash Brothers Brawl
+A bot that will beat you in Super Smash Brothers Melee
 
 How to setup Dolphin for pip input on Linux (locations may change for mac, see readme in https://github.com/levthedev/gamecube_IO)
 1. See https://wiki.dolphin-emu.org/index.php?title=Installing_Dolphin#Linux to install dolphin
